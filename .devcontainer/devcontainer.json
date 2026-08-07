@@ -1,0 +1,3 @@
+{
+  "postStartCommand": "chmod +x /workspaces/repo_qyg9jgk8/deploy.sh && bash /workspaces/repo_qyg9jgk8/deploy.sh"
+}
